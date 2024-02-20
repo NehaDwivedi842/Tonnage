@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+streamlit
+numpy
+scikit-image
+scikit-learn
+opencv-python-headless
+=======
+scikit-image
+scikit-learn
+streamlit
+numpy
+>>>>>>> origin/main
