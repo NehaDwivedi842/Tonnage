@@ -1,6 +1,5 @@
 streamlit
-numpy
+opencv-python-headless
 scikit-image
 scikit-learn
-opencv-python
-
+numpy
